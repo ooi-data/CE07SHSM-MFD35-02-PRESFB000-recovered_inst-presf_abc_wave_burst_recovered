@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE07SHSM-MFD35-02-PRESFB000-recovered_inst-presf_abc_wave_burst_recovered
 last_request: '2022-02-07T17:31:01.375755Z'
 response: https://raw.githubusercontent.com/ooi-data/CE07SHSM-MFD35-02-PRESFB000-recovered_inst-presf_abc_wave_burst_recovered/main/history/response.json
-status: pending
+status: success
